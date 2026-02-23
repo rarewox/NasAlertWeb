@@ -16,7 +16,7 @@ export default function SponsorStrip() {
             />
           </div>
 
-          <div className="text-center md:text-left">
+          <div className="text-left">
             <h2 className="mb-6 border-l-4 border-alert-500 pl-4 text-3xl font-bold md:text-4xl">Sponsor and Public Safety Support</h2>
 
             <p className="mb-4 text-lg font-semibold">Sponsored by: Hon. Jonathan Gbefwi Gaza</p>
@@ -26,23 +26,20 @@ export default function SponsorStrip() {
               with response agencies.
             </p>
 
-            <div className="mt-6 flex flex-col items-center gap-4 sm:flex-row sm:justify-center md:items-start md:justify-start">
+            <div className="mt-6 flex flex-col items-start gap-4 sm:flex-row sm:justify-start">
               <a
                 href="https://nas-alert.vercel.app/login"
                 className="rounded-md bg-white px-5 py-3 text-sm font-semibold text-nigeria-800 transition hover:bg-nigeria-50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"
               >
                 Get NasAlert
               </a>
-              <div className="text-center md:text-left">
+              <div className="text-left">
                 <a
-                  href="https://nas-alert.vercel.app/"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href="#about"
                   className="inline-flex rounded-md border border-white/60 bg-white/10 px-5 py-3 text-sm font-semibold text-white transition hover:border-white hover:bg-white/15 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"
                 >
-                  View Color Reference
+                  View More
                 </a>
-                <p className="mt-2 text-xs text-nigeria-100">Design inspiration reference only.</p>
               </div>
             </div>
           </div>

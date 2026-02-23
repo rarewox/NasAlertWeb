@@ -4,7 +4,7 @@ export default function SponsorProfileSection() {
   return (
     <section className="border-y border-nigeria-700 bg-nigeria-800 text-white">
       <div className="mx-auto grid w-full max-w-6xl gap-8 px-4 py-14 sm:px-6 lg:grid-cols-[0.35fr_0.65fr] lg:items-center lg:px-8">
-        <div className="mx-auto h-52 w-52 rounded-2xl border border-nigeria-600 bg-nigeria-900/50 p-3 shadow-civic">
+        <div className="h-52 w-52 rounded-2xl border border-nigeria-600 bg-nigeria-900/50 p-3 shadow-civic lg:mx-auto">
           <div className="relative h-full overflow-hidden rounded-xl border border-nigeria-500/60 bg-white">
             <Image
               src="/images/nasalert/app-logo.png"
@@ -31,7 +31,6 @@ export default function SponsorProfileSection() {
           >
             Get Started
           </a>
-          <p className="mt-4 text-sm text-nigeria-200">Official social channels: to be announced through verified public communications.</p>
         </div>
       </div>
     </section>
