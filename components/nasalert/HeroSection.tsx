@@ -20,7 +20,7 @@ export default function HeroSection() {
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:items-center">
             <a
-              href="https://nas-alert.vercel.app/login"
+              href="https://app.nasalert.com/login"
               className="inline-flex items-center justify-center rounded-md bg-nigeria-600 px-6 py-3 text-base font-semibold text-white shadow-civic transition hover:bg-nigeria-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-nigeria-500"
             >
               Report an Incident

@@ -37,7 +37,7 @@ export default function Header() {
 
         <div className="flex items-center gap-2">
           <a
-            href="https://nas-alert.vercel.app/signup"
+            href="https://app.nasalert.com/signup"
             className="hidden rounded-md bg-nigeria-600 px-4 py-2 text-sm font-semibold text-white transition hover:bg-nigeria-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-nigeria-500 lg:inline-flex"
           >
             Get Started
@@ -78,7 +78,7 @@ export default function Header() {
               </a>
             ))}
             <a
-              href="https://nas-alert.vercel.app/signup"
+              href="https://app.nasalert.com/signup"
               onClick={closeMobileMenu}
               className="mt-2 inline-flex items-center justify-center rounded-md bg-nigeria-600 px-4 py-2 text-sm font-semibold text-white transition hover:bg-nigeria-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-nigeria-500"
             >

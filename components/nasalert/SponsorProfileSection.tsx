@@ -26,7 +26,7 @@ export default function SponsorProfileSection() {
             coordinated response systems for Nasarawa communities.
           </p>
           <a
-            href="https://nas-alert.vercel.app/signup"
+            href="https://app.nasalert.com/signup"
             className="mt-5 inline-flex items-center justify-center rounded-md bg-white px-5 py-3 text-sm font-semibold text-nigeria-800 transition hover:bg-nigeria-50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"
           >
             Get Started

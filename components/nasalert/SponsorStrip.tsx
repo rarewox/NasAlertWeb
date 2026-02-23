@@ -28,7 +28,7 @@ export default function SponsorStrip() {
 
             <div className="mt-6 flex flex-col items-start gap-4 sm:flex-row sm:justify-start">
               <a
-                href="https://nas-alert.vercel.app/login"
+                href="https://app.nasalert.com/login"
                 className="rounded-md bg-white px-5 py-3 text-sm font-semibold text-nigeria-800 transition hover:bg-nigeria-50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"
               >
                 Get NasAlert
