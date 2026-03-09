@@ -20,7 +20,7 @@ export default function SponsorProfileSection() {
           <p className="mb-2 inline-block rounded-full border border-nigeria-500/70 bg-nigeria-700/40 px-3 py-1 text-xs font-semibold uppercase tracking-[0.15em] text-nigeria-100">
             Sponsor Profile
           </p>
-          <h2 className="text-balance text-3xl font-bold leading-tight text-white md:text-4xl">Hon. Jonathan Gbefwi Gaza</h2>
+          <h2 className="text-balance text-3xl font-bold leading-tight text-white md:text-4xl">Hon. Gaza Jonathan Gbefwi</h2>
           <p className="mt-3 text-pretty text-lg text-nigeria-100">
             Supporting citizen safety through practical digital infrastructure that improves reporting speed, verified communication, and
             coordinated response systems for Nasarawa communities.

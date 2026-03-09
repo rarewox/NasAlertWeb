@@ -8,7 +8,7 @@ export default function SponsorStrip() {
           <div className="relative h-[320px] w-full overflow-hidden rounded-xl shadow-2xl sm:h-[400px] md:h-[500px]">
             <Image
               src="/images/nasalert/sponsor-public-safety.jpg"
-              alt="NasAlert Public Safety Initiative - Hon. Jonathan Gbefwi Gaza"
+              alt="NasAlert Public Safety Initiative - Hon. Gaza Jonathan Gbefwi"
               fill
               priority
               sizes="(min-width: 768px) 50vw, 100vw"
@@ -19,7 +19,7 @@ export default function SponsorStrip() {
           <div className="text-left">
             <h2 className="mb-6 border-l-4 border-alert-500 pl-4 text-3xl font-bold md:text-4xl">Sponsor and Public Safety Support</h2>
 
-            <p className="mb-4 text-lg font-semibold">Sponsored by: Hon. Jonathan Gbefwi Gaza</p>
+            <p className="mb-4 text-lg font-semibold">Sponsored by: Hon. Gaza Jonathan Gbefwi</p>
 
             <p className="text-lg leading-relaxed text-nigeria-100">
               This initiative supports safer communities through faster incident reporting, verified communication, and stronger coordination
